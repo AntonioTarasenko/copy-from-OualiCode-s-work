@@ -8,7 +8,7 @@
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://github.com/AntonioTarasenko/copy-from-OualiCode-s-work.git",
+    "homepage": "https://antoniotarasenko.github.io/copy-from-OualiCode-s-work/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
