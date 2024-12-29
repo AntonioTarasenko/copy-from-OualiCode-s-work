@@ -97,7 +97,7 @@ function HeroSection() {
             >
               <div className='absolute inset-0 rounded-full bg-gradient-to-r from-[#ffc107] to-[#ff6667] blur-3xl opacity-60 h-full w-full' />
               <img
-                src='/heroPic.jpg'
+                src='./heroPic.jpg'
                 alt='Hero Pic'
                 className='relative z-10 rounded-full w-[300px] h-[300px] shadow-2xl transform transition-transform duration-500 ease-in-out hover:scale-110'
               />

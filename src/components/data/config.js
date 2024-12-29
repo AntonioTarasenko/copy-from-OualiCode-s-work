@@ -161,21 +161,21 @@ export const projects = [
     title: 'Project 1',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.',
-    imageUrl: '/project1.jpg',
+    imageUrl: './project1.jpg',
   },
   {
     id:2,
     title: 'Project 2',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.',
-    imageUrl: '/project2.jpg',
+    imageUrl: './project2.jpg',
   },
   {
     id:3,
     title: 'Project 3',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quibusdam.',
-    imageUrl: '/project3.jpg',
+    imageUrl: './project3.jpg',
   },
 ]
 

@@ -49,7 +49,7 @@ function ImageMesh({ position = [0, 0, 0], scale }) {
 }
 
 function Ground(props) {
-  const [floor, normal] = useTexture(['/Surface1.jpg', '/Surface2.jpg']);
+  const [floor, normal] = useTexture(['./Surface1.jpg', './Surface2.jpg']);
   return (
     <Reflector resolution={1024} args={[8, 8]} {...props}>
       {(Material, props) => (
